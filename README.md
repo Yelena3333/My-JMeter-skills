@@ -7,7 +7,7 @@ Scenario 1:
 4. Click Calculate
 
 Scenario 2:
-1. Enter random value2 (extracted from scenario 1) into the first field of Percentage Change calculator
+1. Enter value2 (extracted from scenario 1) into the first field of Percentage Change calculator
 2. Enter 35 into the first field of Percentage calculator
 3. Click Calculate
 
